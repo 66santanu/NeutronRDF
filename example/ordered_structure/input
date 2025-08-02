@@ -1,0 +1,4 @@
+2304 ! numer of atoms
+2    ! two types of atoms, code is limited to only 2 types
+Be F ! name of the two types
+0 10 0.05 ! radius of disorder in Angstrom : r_min, r_max, dr
